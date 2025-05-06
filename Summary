@@ -1,0 +1,30 @@
+# One Page Summary – Express.js To-Do List (Backend Only)
+
+# Project Overview
+This project is a backend-only To-Do List application built with Node.js and Express.js. It allows users to add new tasks, view all tasks, and delete tasks by their ID. Tasks are stored in a simple in-memory array without any database integration.
+
+# Functional Endpoints
+
+POST /addTask – Add a new task
+GET /tasks – Retrieve all tasks
+DELETE /task/:id – Delete a task by ID
+
+# Tools and Technologies
+
+Node.js
+Express.js
+Postman – For testing the API routes
+
+# Learning Outcomes
+
+Learned how to set up a basic Express.js server
+Understood handling different HTTP methods (GET, POST, DELETE)
+Practiced using Postman to test API endpoints
+Gained experience in managing data using arrays in-memory
+
+---
+Submitted by: Muhammad Shoaib Saleem
+Subject: Web Programming
+Semester: 6
+Assignment: Backend To-Do List with Express.js (Postman Tested)
+---
